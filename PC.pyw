@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-
 # Pest Control - Battle for the Lawn
-#    Code by Dial | Art by Schuss
+#   Requires Python 3 and Pygame library
 
 import pygame as pg
 import os, sys
